@@ -1,4 +1,4 @@
-# chess-ai
+# Chess-ai
 A chess engine by someone who doesn't know how to play chess.
 
 ## About
